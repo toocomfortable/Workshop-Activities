@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>x_snc_student_pe_0_activity_transform_map</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_snc_student_pe_0_1668525695601</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:31:07</sys_created_on>
+        <sys_id>d7a24d735c4311107f4461d5f22cade9</sys_id>
+        <sys_name>x_snc_student_pe_0_activity_transform_map</sys_name>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope>
+        <sys_update_name>sys_transform_map_d7a24d735c4311107f4461d5f22cade9</sys_update_name>
+        <target_table>x_snc_student_pe_0_activity</target_table>
+    </sys_transform_map>
+</record_update>

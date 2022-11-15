@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_student_pe_0.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:19:40</sys_created_on>
+        <sys_id>230085735c4311107f4461d5f22cade7</sys_id>
+        <sys_name>x_snc_student_pe_0.admin</sys_name>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope>
+        <sys_update_name>sys_user_role_230085735c4311107f4461d5f22cade7</sys_update_name>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f19301775c4311107f4461d5f22cadad" extends="task" label="Permission Task" max_length="40" name="x_snc_student_pe_0_permission_task" type="collection"/>
+</database>

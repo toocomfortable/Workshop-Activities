@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Student Pe 0 1668525695601</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_student_pe_0_1668525695601</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:21:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49808d735c4311107f4461d5f22cad30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Pe 0 1668525695601</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope>
+        <sys_update_name>sys_app_module_49808d735c4311107f4461d5f22cad30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 15:21:41</sys_updated_on>
+        <timeline_page/>
+        <title>Student Pe 0 1668525695601</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Student Permission">630085735c4311107f4461d5f22cade1</application>
+        <file_path/>
+        <instance_id>a887825f9747dd909c987a121153afc8</instance_id>
+        <instance_name>soc-nov-860-002</instance_name>
+        <name>sys_app_module_49808d735c4311107f4461d5f22cad30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Student Pe 0 1668525695601</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_student_pe_0_1668525695601</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 15:21:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>49808d735c4311107f4461d5f22cad30</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student Pe 0 1668525695601</sys_name><sys_overrides/><sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package><sys_policy/><sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope><sys_update_name>sys_app_module_49808d735c4311107f4461d5f22cad30</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 15:21:41</sys_updated_on><timeline_page/><title>Student Pe 0 1668525695601</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1430763857</payload_hash>
+        <record_name>Student Pe 0 1668525695601</record_name>
+        <reverted_from/>
+        <source>a70085735c4311107f4461d5f22cade3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:21:41</sys_created_on>
+        <sys_id>09808d735c4311107f4461d5f22cad33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847be1b9740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 15:21:41</sys_updated_on>
+        <type>Module</type>
+        <update_guid>41808d73194311107969506d0bf91033</update_guid>
+        <update_guid_history>41808d73194311107969506d0bf91033:1430763857</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Student Pe 0 1668525695601">90b201375c4311107f4461d5f22cad1c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:31:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>39d87965af354c4ab951ae97b1e01461</sys_id>
+        <sys_metadata>49808d735c4311107f4461d5f22cad30</sys_metadata>
+        <sys_name>Student Pe 0 1668525695601</sys_name>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope>
+        <sys_scope_delete display_value="">03a8a2af88c3467e811804640f6a1184</sys_scope_delete>
+        <sys_update_name>sys_app_module_49808d735c4311107f4461d5f22cad30</sys_update_name>
+        <sys_update_version display_value="sys_app_module_49808d735c4311107f4461d5f22cad30">09808d735c4311107f4461d5f22cad33</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

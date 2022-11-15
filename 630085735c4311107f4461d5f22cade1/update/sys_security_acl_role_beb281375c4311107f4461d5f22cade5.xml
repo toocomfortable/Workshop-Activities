@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:31:21</sys_created_on>
+        <sys_id>beb281375c4311107f4461d5f22cade5</sys_id>
+        <sys_name>x_snc_student_pe_0_activity.x_snc_student_pe_0.admin</sys_name>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Permission">630085735c4311107f4461d5f22cade1</sys_scope>
+        <sys_security_acl display_value="x_snc_student_pe_0_activity">a6b281375c4311107f4461d5f22cada4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_beb281375c4311107f4461d5f22cade5</sys_update_name>
+        <sys_user_role display_value="x_snc_student_pe_0.admin" name="x_snc_student_pe_0.admin">230085735c4311107f4461d5f22cade7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

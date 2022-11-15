@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">0e1110c15c1211107f44347096fdb4fd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:21:40</sys_created_on>
+        <sys_id>f4808d735c4311107f4461d5f22cad0e</sys_id>
+        <sys_package display_value="Student Permission" source="x_snc_student_pe_0">630085735c4311107f4461d5f22cade1</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="caa28df35c4311107f4461d5f22cad68" label="Activity" max_length="40" name="x_snc_student_pe_0_activity" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Activity" max_length="40" name="activity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval" sequence="0" value="Approval"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="Draft"/>
+                <element inactive_on_update="false" label="Planned" sequence="0" value="Planned"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Teacher" max_length="32" name="teacher" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="teacher"/>
+        </index>
+    </element>
+</database>
